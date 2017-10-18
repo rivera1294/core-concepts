@@ -1,0 +1,3 @@
+# Know how to read the documentation for a 3rd party library (multer for this project) and use the library
+
+The way I went about reading the documentation was by reading it throughly. Then I looked at some examples they had to get a better understanding. From there I looked at the github repo to look at more examples. From there I started to work on my project. I if I had any more issues with the multer library I would look at stack overflow to see more explanations.
