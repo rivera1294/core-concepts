@@ -1,4 +1,4 @@
-#What is a session
+#What is a cookie
 
 A cookie is a piece of data the server sends to the browser. The browser can store that cookei data. Once the cookie data is stored, if the browser returns to the same server at a later time the server will take the cookie data that the browser has stored and it will customize the data it sends back to the client based off the cookie it recieved.
 
