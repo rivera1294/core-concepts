@@ -1,0 +1,3 @@
+#Understand cardinality in database relationships (1 to 1, 1 to many, many to many)
+
+Cardinality is how many references a collection has to another collection. There are different type of collection relationships. Common ones are one-to-one, one-to-many or many-to-many. Using a blog application as an example, each `post` will have a `title` which would represents a one-to-one relationship. Each `author` will have many `posts` which would represent a one-to-many relationship. And `posts` will have many `tags`which represents a many-to-many relationship.
