@@ -1,4 +1,4 @@
-#Understand how promises work. How do they solve "Callback hell"?
+# Understand how promises work. How do they solve "Callback hell"?
 
 The mozilla developer network defines a `Promise` as an object that represents the eventual completion (or failure) of an asynchronous operation, and its resulting value. Promises are used as an alternative for executing and handling asynchronous operations. The traditional way of handling these asynchronous operations are call-back approaches.
 
