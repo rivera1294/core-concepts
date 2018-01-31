@@ -1,0 +1,3 @@
+# What is a session
+
+A session something that a web server stores that contains information about a user. When a user logs into a website it is given a cookie with some information that identifies that user. That cookie is then stored in a session. When the user returns to the website the browser already has the cookie that it was given from the web server. Therefore the web server takes that cookie and identifies user. Then the web server retrieves the session information and sends back the correct user data.
