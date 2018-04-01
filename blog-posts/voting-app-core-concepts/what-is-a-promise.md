@@ -18,7 +18,7 @@ Promises have been used to solve the callback hell problem. Callback hell refers
 
 Here is an example of callback hell
 
-```
+```js
 task1(function(){
     task2(function(){
         task3(function(){
@@ -31,7 +31,7 @@ task1(function(){
 
 Now here is an example of using promises.
 
-```
+```js
 task1(function(){..})
     .then(task2)
     .then(task3)
